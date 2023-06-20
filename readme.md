@@ -34,4 +34,8 @@
 adminEmail: admin@admin.com
 adminPassword: admin1
 
+#### check the website live here
+
+[https://mobile-reseller-juel.web.app/]
+
 thats it thank you .
